@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "asasdd@gmail.com",
+      "username": "typicode",
+      "password": "6789"
+    },
+    {
+      "email": "nitin@gmail.com",
+      "Username": "nitin",
+      "pass": "nitin",
+      "id": 2
+    },
+    {
+      "email": "prince@gmail.com",
+      "Username": "prince",
+      "pass": "prince",
+      "id": 3
+    },
+    {
+      "email": "kp@gmal.com",
+      "Username": "fytf",
+      "pass": "123",
+      "id": 4
+    },
+    {
+      "email": "prince@gmail.com",
+      "Username": "prnce",
+      "pass": "dscxc",
+      "id": 5
+    },
+    {
+      "email": "prince@gmail.com",
+      "Username": "mano",
+      "pass": "123",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
